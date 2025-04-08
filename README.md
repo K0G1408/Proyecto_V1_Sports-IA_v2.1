@@ -1,4 +1,4 @@
-# Sports-IA
+# Sports-IA 
 ## Sports AI es una plataforma impulsada por inteligencia artificial que permite clasificar deportes a partir de imágenes. Simplemente sube una foto y nuestro modelo analizará y determinará de qué deporte se trata en segundos.
 ### Esta es la vista principal de la pagina web.
 ![](https://github.com/Quetzal345/Sports-IA/blob/279a6949f4d7994f9b11c400ad03835787427e89/sports%20IA/IA1.png)
